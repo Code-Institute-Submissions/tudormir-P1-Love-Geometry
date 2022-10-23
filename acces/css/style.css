@@ -20,6 +20,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 200%;
+    margin-left: 30px;
 }
 
 /* navigation links */
@@ -89,4 +90,26 @@ h1, h2 {
     right: 150px;
 
     position: absolute;
+}
+/* Geometry then */
+#geometry-then {
+    height: 600px;
+}
+#to-the-left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#to-the-right {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: silver;
+}
+#in-the-center {
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
 }
