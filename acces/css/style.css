@@ -82,11 +82,11 @@ h1, h2 , h3{
     width: 80%;
     background: url('../images/art-geo.webp') no-repeat center center;
 }
-/*#then-image {
+#then-image {
     height: 100px;
-    width: 100%;
-    background: url('../images/Mesopotamia.webp') no-repeat center center;
-}*/
+    width: 80%;
+    background: url('../acces/images/Mesopotamia.webp') no-repeat center center;
+}
 #cover-text {
     font-size: 100%;
     font-family: Lato, sans-serif;
@@ -114,6 +114,19 @@ h1, h2 , h3{
 #geometry-now {
     height: 50px;
     margin: 30px;
+}
+fieldset {
+    border: none;
+    margin-top: 20px;
+}
+#photo {
+    width: 50%;
+    float: left;
+    
+}
+#info {
+    width: 50%;
+    float: right;
 }
 /*
 #to-the-left {
