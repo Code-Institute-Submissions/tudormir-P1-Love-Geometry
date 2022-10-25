@@ -87,6 +87,11 @@ h1, h2 , h3{
     width: 80%;
     background: url('../acces/images/Mesopotamia.webp') no-repeat center center;
 }
+#then-image_ma {
+    height: 100px;
+    width: 80%;
+    background: url('../acces/images/middle-age.webp') no-repeat center center;
+}
 #cover-text {
     font-size: 100%;
     font-family: Lato, sans-serif;
@@ -128,6 +133,7 @@ fieldset {
     width: 50%;
     float: right;
 }
+
 /*
 #to-the-left {
     padding-top: 30px;
