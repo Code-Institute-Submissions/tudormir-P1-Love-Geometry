@@ -5,7 +5,7 @@ body {
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #5f5c5c;
 }
 
 /* headings and logo */
@@ -40,9 +40,20 @@ h1, h2 , h3{
     margin-right: 30px;
 }
 #menu_footer li {
-    float: left;
     list-style-type: none;
     margin-right: 30px;
+}
+.math-links {
+    text-align: center;
+}
+.math-links > li {
+    display: inline;
+}
+.math-links i {
+    font-size: 150%;
+    margin: 1%;
+    color: #5f5c5c;
+    padding: 5%;
 }
 #menu-then li {
     float: left;
@@ -55,11 +66,11 @@ h1, h2 , h3{
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #5c5c5c;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #5c5c5c;
 }
 
 /* hero image and cover text */
