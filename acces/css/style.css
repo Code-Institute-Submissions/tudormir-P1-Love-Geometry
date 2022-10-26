@@ -39,6 +39,11 @@ h1, h2 , h3{
     list-style-type: none;
     margin-right: 30px;
 }
+#menu_footer li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
 #menu-then li {
     float: left;
     list-style-type: none;
