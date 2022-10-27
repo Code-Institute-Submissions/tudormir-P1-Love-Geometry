@@ -114,6 +114,7 @@ h1, h2 , h3{
     width: 80%;
     background: url('../acces/images/middle-age.webp') no-repeat center center;
 }
+/*
 #cover-text {
     font-size: 100%;
     font-family: Lato, sans-serif;
@@ -132,7 +133,7 @@ h1, h2 , h3{
     right: 150px;
 
     position: absolute;
-}
+} */
 /* Geometry then */
 #geometry-then {
     height: 50px;
@@ -145,6 +146,9 @@ h1, h2 , h3{
 fieldset {
     border: none;
     margin-top: 20px;
+}
+#footer-under {
+    height: 600px;
 }
 #photo {
     width: 50%;
@@ -174,7 +178,9 @@ fieldset {
     left: 10%;
     padding: 30px;
 }
-
+#position-under {
+    height: 500px;
+}
 /*
 #to-the-left {
     padding-top: 30px;
