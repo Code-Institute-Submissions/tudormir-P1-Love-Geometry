@@ -44,6 +44,14 @@ h1, h2 , h3{
     list-style-type: none;
     margin-right: 30px;
 }
+#geometry-then {
+    height: 50px;
+    margin: 30px;
+}
+#geometry-now {
+    height: 50px;
+    margin: 30px;
+}
 .math-links {
     text-align: center;
 }
@@ -62,11 +70,21 @@ h1, h2 , h3{
     margin-right: 30px;
     color: inherit;
 }
+#menu-now li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+    color: inherit;
+}
 #menu a {
     text-decoration: none;
     color: inherit;
 }
 #menu-then a {
+    text-decoration: none;
+    color: inherit;
+}
+#menu-now a {
     text-decoration: none;
     color: inherit;
 }
