@@ -97,7 +97,7 @@ h1, h2 , h3{
     border-bottom: 1px solid #5c5c5c;
 }
 
-/* hero image and cover text */
+/* art image */
 
 #art-outer {
     height: 400px;
@@ -106,10 +106,10 @@ h1, h2 , h3{
 
     position: relative;
 }
-
+/*
 #cover-text, #cover-text h2 {
     color: #fff;
-}
+}*/
 /*#art-onder {
     height: 400px;
     width: 80%;
@@ -122,6 +122,7 @@ h1, h2 , h3{
     width: 80%;
     background: url('../images/art-geo.webp') no-repeat center center;
 }
+/*
 #then-image {
     height: 100px;
     width: 80%;
@@ -132,6 +133,7 @@ h1, h2 , h3{
     width: 80%;
     background: url('../acces/images/middle-age.webp') no-repeat center center;
 }
+*/
 /*
 #cover-text {
     font-size: 100%;
@@ -198,14 +200,14 @@ fieldset {
     width: 50%;
     float: right;
 }
-/* Form */
+/* Form 
 .form-section {
     clear: left;
     background: url("../images/geometries.webp");
     background-size: cover;
     background-position: center;
     height: 900px;
-}
+} */
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
@@ -218,22 +220,29 @@ fieldset {
 #position-under {
     height: 500px;
 }
-/*
-#to-the-left {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    background-color: blue;
-}
+@media screen and (max-width: 1200px) {
+    #text {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
 
-#to-the-right {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    background-color: silver;
+    }
+    #info-text {
+        padding: 30px 0;
+        margin: 0;
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
 }
-#in-the-center {
-    width: 33%;
-    margin: 0 auto;
-    background-color: green;
-}*/
+@media screen and (max-width: 950px; {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
