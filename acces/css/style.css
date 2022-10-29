@@ -120,7 +120,7 @@ h1, h2 , h3{
 #art-image {
     height: 400px;
     width: 80%;
-    background: url('../images/art-geo.webp') no-repeat center center;
+    background: url('../images/art-image_1.webp') no-repeat center center;
 }
 /*
 #then-image {
@@ -177,6 +177,11 @@ fieldset {
     width: 100%;
     height: 100px;
 }
+.box_3 {
+    background: inherit;
+    width: 50%;
+    height: 50px;
+}
 .box_1 {
     background: inherit;
     width: 100%;
@@ -231,10 +236,13 @@ fieldset {
         float: right;
         font-size: 80%;
     }
-    div > #art-image {
+    #art-outer {
+        height: 400px;
+        width: 100%;
+    }
+    #art-image {
         width: 100%;
         height: 100%;
-        position: center;
     }
     img {
         width: 100%;
@@ -249,10 +257,11 @@ fieldset {
        /* line-break: block; */
         clear: both;
     }
-    #box_2 {
+    #box, #box_1, #box_2, #box_3 {
         width: 50%;
         height: 50%;
     }
+    /*
     #box_1 {
         width: 50%;
         height: 50%;
@@ -261,6 +270,7 @@ fieldset {
         width: 50%;
         height: 50%;
     }
+    */
   /*  #text {
         height: 800px;
         float: left;
