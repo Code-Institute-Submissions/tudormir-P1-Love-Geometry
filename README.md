@@ -1,3 +1,4 @@
+
 I am Mirela Tudor and this is my project Geometry then and now.
 My idea was to create a website about the history of Geometry. All the text and pictures that I used to create the six additional pages are from Wikipedia. Wikipedia is a free website, so I hope I didn't commit plagiarism. The webpages that I used from Wikipedia are the following:
 From https://en.wikipedia.org/wiki/Geometry I took the text and the math related pictures. The webpages from the footer are the following:
