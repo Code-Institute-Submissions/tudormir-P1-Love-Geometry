@@ -24,11 +24,10 @@ My website is responsive, here is the image.
 <img src="assets/images/iamresponsive.webp">
 
 The website has been checked op the lighthouse and has the following score:
-<img src="assets/images/accessibility.webp">
+
 https://web.dev/measure/?url=https%3A%2F%2Ftudormir.github.io%2FP1-Love-Geometry%2Findex.html
-Unfortunaly the image wil not upload, but hier is the path:
-![My Image][def].
-[def]: assets/images/accessibility.webp
+Unfortunaly the image wil not upload, but hier is the path. On the preview it does upload.
+<img src="assets/images/check-lighthouse.webp">
 
 W3c CSS validator
 W3C CSS Validator Resultaten met object : https://tudormir.github.io/P1-Love-Geometry/index.html (CSS versie 3 + SVG)
