@@ -1,5 +1,6 @@
 
-I am Mirela Tudor and this is my project Geometry then and now.
+I am Mirela Tudor and this is my project Geometry then and now and my firts website.
+
 My idea was to create a website about the history of Geometry. All the text and pictures that I used to create the six additional pages are from Wikipedia. Wikipedia is a free website, so I hope I didn't commit plagiarism. The webpages that I used from Wikipedia are the following:
 From https://en.wikipedia.org/wiki/Geometry I took the text and the math related pictures. The webpages from the footer are the following:
 - https://en.wikipedia.org/wiki/List_of_formulas_in_elementary_geometry
@@ -18,16 +19,16 @@ I have not used the links to facebook or other media sites, instead I have used 
 
 I have today change the code for the six aditional pages to fit on smaller screens. Unfortunally I still don't know how to do it for the main image. I have found a way to do that, so it is working now.
 
-My website is responsive, here is the image. Unfortunaly the image will not upload.
+My website is responsive, here is the image.
 
-![My Image][def].
-[def]: /assets/images/iamresponsive.webp
+<img src="assets/images/iamresponsive.webp">
 
-The website has been checked op the lighthouse and has the following score: performance: 87%, accessibility: 100%, best ptactice: 100% and SE): 97%.
+The website has been checked op the lighthouse and has the following score:
+<img src="assets/images/accessibility.webp">
 https://web.dev/measure/?url=https%3A%2F%2Ftudormir.github.io%2FP1-Love-Geometry%2Findex.html
 Unfortunaly the image wil not upload, but hier is the path:
 ![My Image][def].
-[def]: /assets/images/accessibility.webp
+[def]: assets/images/accessibility.webp
 
 W3c CSS validator
 W3C CSS Validator Resultaten met object : https://tudormir.github.io/P1-Love-Geometry/index.html (CSS versie 3 + SVG)
@@ -85,3 +86,5 @@ Because the deployment didn't work the first time, I have learn that you need to
 Then do again the step 5.
 The error I can not fix is to show images in README.md file.
 It is a pity because I can not show the results of the responsiveness and accessibility.
+I listen again to the video about README.md file and there was said that uploading images on the same way is done als in een *.html file.
+
