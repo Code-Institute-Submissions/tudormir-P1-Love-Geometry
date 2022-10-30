@@ -18,7 +18,7 @@ I have not used the links to facebook or other media sites, instead I have used 
 
 I have today change the code for the six aditional pages to fit on smaller screens. Unfortunally I still don't know how to do it for the main image. I have found a way to do that, so it is working now.
 
-My website is responsive, here is the score from Lighthouse.
+My website is responsive, here is the image.
 
 ![My Image][def].
 [def]: assets/images/iamresponsive.webp
