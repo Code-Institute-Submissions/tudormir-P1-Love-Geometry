@@ -110,7 +110,7 @@ h1, h2 , h3{
 #art-image {
     height: 400px;
     width: 80%;
-    background: url('../images/art-image_1.webp') no-repeat center center;
+    background: url('../assets/images/art-image_1.webp') no-repeat center center;
 }
 
 /* Geometry then */
