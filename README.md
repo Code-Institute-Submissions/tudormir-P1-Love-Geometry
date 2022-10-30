@@ -21,4 +21,4 @@ I have today change the code for the six aditional pages to fit on smaller scree
 My website is responsive, here is the score from Lighthouse.
 
 ![My Image][def].
-[def]: images/iamresponsive.webp
+[def]: assets/images/iamresponsive.webp
